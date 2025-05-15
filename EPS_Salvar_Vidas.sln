@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPS_Salvar_Vidas", "EPS_Salvar_Vidas.csproj", "{691994B4-D856-4A99-A52D-BCF1B6A6DDC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691994B4-D856-4A99-A52D-BCF1B6A6DDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691994B4-D856-4A99-A52D-BCF1B6A6DDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691994B4-D856-4A99-A52D-BCF1B6A6DDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691994B4-D856-4A99-A52D-BCF1B6A6DDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9954F75-77D1-4295-8D5D-2D6C0456892D}
+	EndGlobalSection
+EndGlobal
